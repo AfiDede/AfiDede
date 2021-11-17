@@ -16,11 +16,19 @@ My goal is to explain concepts in Data Science, Machine Learning and Python prog
 - 📫 How to reach me: kweyakie.ab@gmail.com.
 - 😄 Pronouns: She/her.
 - ⚡ Random Fun fact: I have.
-- This page is under construction. I will be adding my personal projects soon!
+- :hammer: This page is under construction. I will be adding my personal projects soon!
 
 ### My Skills
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) 
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+](#)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+](#)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+](#)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ](#)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -44,8 +52,7 @@ For this reason, I have co-founded Because She Can, a non-profit in Ghana that i
 <br >
 We are building Africa's biggest pipeline of women in technology at all levels!
 <br >
-Check us out ![Because She Can](http://becauseshecan.tech/)
-
+Check us out: [Because She Can](http://becauseshecan.tech)
 
 
 
