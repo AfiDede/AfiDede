@@ -8,7 +8,7 @@ This has influenced me to write technical articles on topics I find interesting 
 <br >
 My goal is to explain concepts in Data Science and Analytics, Machine Learning and Python programming in way that absolute beginners can understand.
 <br >
-I contribute to Open Source at [Galaxy](https://usegalaxy.org/)
+I contribute to Open Source [Because She Can](https://usegalaxy.org/)
 
 :mailbox: Connect with me!
 
@@ -60,7 +60,7 @@ For this reason, I have co-founded Because She Can, a non-profit in Ghana that i
 <br >
 We are building Africa's biggest pipeline of women in technology at all levels!
 <br >
-Check us out and donate to support our cause: [Because She Can](http://becauseshecan.tech)
+Check us out and consider donating to support our cause: [Because She Can](http://becauseshecan.tech)
 
 
 
