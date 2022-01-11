@@ -1,22 +1,25 @@
 ## Hi I'm Kweyakie <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a Data Scientist, currently working as a Technology Auditor.
+### I am a Data Analyst, Technology Auditor, Technical Writer and Social Entrepreneur.
 <br >
-I write technical articles on topics I find interesting in my learning.
+My interests lie in being able to conduct an in-depth analysis of data, recognise relevant patterns and drawing conclusions and making recommendations that solve business problems and communicate complex ideas to non-technical stakeholders. 
 <br >
-My goal is to explain concepts in Data Science, Machine Learning and Python programming in way that absolute beginners can understand.
+This has influenced me to write technical articles on topics I find interesting in my learning.
+<br >
+My goal is to explain concepts in Data Science and Analytics, Machine Learning and Python programming in way that absolute beginners can understand.
+<br >
+I contribute to Open Source at [Galaxy](https://usegalaxy.org/)
 
 :mailbox: Connect with me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@dede_codes-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dede_codes)](https://twitter.com/dede_codes) [![Linkedin Badge](https://img.shields.io/badge/-Kweyakie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kweyakieblebo/) 
 
-- :computer: I am currently learning Django for backend development.
-- 🤔 I’m looking to work in Data Scientist, Analyst or Machine Learning Engineer roles.
-- :eyes: I am also interested in developer relations/advocacy roles.
+- :computer: I am currently building skills in Ruby for backend development.
+- :eyes: I am looking to leverage my solid skills in Analytics and Technical writing, to bring value to your organisation in Data Science or Analyst,Technical writing and Developer Advocacy roles.
 - 📫 How to reach me: kweyakie.ab@gmail.com.
 - 😄 Pronouns: She/her.
-- ⚡ Random Fun fact: I have.
-- :hammer: This page is under construction. I will be adding my personal projects soon!
+- ⚡ Random Fun fact: I am the first woman to ever occupy the postion of a Technolgy Auditor in one of the largest banks in Africa.
+- :hammer: This page is still under construction. I will be adding my personal projects soon!
 
 ### My Skills
 
@@ -33,8 +36,13 @@ My goal is to explain concepts in Data Science, Machine Learning and Python prog
 ](#)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ](#)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+[!![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ](#)
+
+## 📝 Favorite Articles by me!
+- [Data Leakage in Machine Learning](https://medium.com/geekculture/data-leakage-in-machine-learning-30437a0a0a95)
+- [Understand How to Use Inplace in Pandas](https://medium.com/swlh/understand-inplace-in-pandas-e7ae3be3b0dc)
+
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AfiDede.AfiDede)
@@ -52,7 +60,7 @@ For this reason, I have co-founded Because She Can, a non-profit in Ghana that i
 <br >
 We are building Africa's biggest pipeline of women in technology at all levels!
 <br >
-Check us out: [Because She Can](http://becauseshecan.tech)
+Check us out and donate to support our cause: [Because She Can](http://becauseshecan.tech)
 
 
 
